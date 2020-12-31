@@ -3,7 +3,7 @@ pagination:
   data: characters
   alias: character
   size: 1
-layout: layout.liquid
+layout: page-character
 permalink: '/characters/{{character.name|slug}}/'
 title: Rick & Morty Characters
 ---
