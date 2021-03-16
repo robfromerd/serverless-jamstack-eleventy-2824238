@@ -28,9 +28,9 @@ module.exports = function(eleventyConfig) {
     return DateTime.fromJSDate(dateObj, { zone: 'utc'}).toFormat('LLL dd, yyyy')
   })
 
-  eleventyConfig.addCollection('articles', function(collection){
+  /*eleventyConfig.addCollection('articles', function(collection){
     return collection.getFilteredByGlob('_site/posts/*.md').reverse();
-  })
+  })*/
 
   eleventyConfig.addFilter('limit', (array, qty) => (qty < 0 ? array.slice(qty): array.slice(0, qty)))
 

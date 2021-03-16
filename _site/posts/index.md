@@ -10,7 +10,7 @@ permalink: /posts/{{pagination.pageNumber}}/
 <h1 class="mb-3">Posts</h1>
 
 {% include "pagination.njk" %}
-{%- for item in pagination.items -%}
+{%- for item in pagination.items | reverse -%}   
 <article class="mb-5 position-relative">
   <div class="row">
     <div class="col-12 col-sm-4">

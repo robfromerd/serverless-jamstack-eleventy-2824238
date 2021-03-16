@@ -2,13 +2,17 @@
 title: About Me
 layout: page-hero
 headerHeight: 70vh
-hero: http://pixelprowess.com/i/raybo01.jpg
-summary: Helping people learn full-stack development with a clear, practice style
+hero: https://via.placeholder.com/1800x1050
+summary: Vestibulum ac diam sit amet quam vehicula elementum sed sit
 permalink: '/about-{{ pkg.author | slug }}/'
 ---
 
 # {{title}}
 
-Ray Villalobos is a full-stack design/development teacher and senior staff instructor at <a href="https://www.linkedin.com/learning/instructors/ray-villalobos">LinkedIn Learning</a>. His courses are focused on front-end design and development topics such as JavaScript, AngularJS, React, and Sass, plus frameworks like Bootstrap and tools that can make you a faster, more efficient developer. He has a clear and practical teaching style and will help you improve your skills through real-world exercises and projects.
+Pellentesque in ipsum id orci porta dapibus. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
 
-Previously, as a director of multimedia for Entravision Communications, Ray managed a network of radio and TV station websites on the East Coast. He also designed large newspaper sites and created interactive projects/games for the Tribune network of newspapers. You can reach him on LinkedIn or through other social networks @planetoftheweb. Check out his personal blog at [raybo.org](http://raybo.org).
+Pellentesque in ipsum id orci porta dapibus. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+
+Cras ultricies ligula sed magna dictum porta. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui.
+
+Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Cras ultricies ligula sed magna dictum porta.
